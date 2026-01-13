@@ -8,7 +8,7 @@ This AI assistant helps users improve their well-being by generating:
 - 🧘 Mindfulness and stress-reducing tips  
 
 
-![My Image](https://github.com/Mercytopsy/AI-Health-Supervisor-Agent/blob/main/Architectural_Diagram.png)
+![My Image](https://github.com/manishaak2025/AI-Health-Supervisor-Agent/blob/main/Architectural_Diagram.png)
 
 
 
@@ -28,7 +28,7 @@ This AI assistant helps users improve their well-being by generating:
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/Mercytopsy/AI-Health-Supervisor-Agent.git
+git clone [https://github.com/Mercytopsy/AI-Health-Supervisor-Agent.git](https://github.com/manishaak2025/AI-Health-Supervisor-Agent.git)
 cd AI-Health-Supervisor-Agent
 ```
 #### 2. Install dependencies
